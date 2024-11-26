@@ -29,6 +29,7 @@ Here are a few highlights:
  <img src="https://github.com/JoseOrtega51/JoseOrtega51/blob/main/zs.gif" alt="Dam break lava" height="200">  <img src="https://github.com/JoseOrtega51/JoseOrtega51/blob/main/ToroideCargadoCampo.png" alt="Charge on conductor" height="200">  
 
 ### 🧮 Quantitative Finance  
+- [ValuationLibrary](https://github.com/JoseOrtega51/ValuationLibrary): Python library compiled in C++ to work with financial instruments and portfolios in an OOP style that mimics trading (in a didactic and naive way). You may configure options with their characteristics, choose a pricing model and set up a portfolio which you can price at once.
 - [OPTION_PRICING](https://github.com/JoseOrtega51/OPTION_PRICING): Functions in C++ that price European Options and Barrier Options (up-and-out) using a Monte Carlo method with a Geometric Brownian Motion. The analytical solutions for these cases (Black and Scholes) are implemented in Python, which makes it possible to study the convergence of the method.
 
 <img src="https://github.com/JoseOrtega51/JoseOrtega51/blob/main/GBM_sim_rn.png" alt="GBM distribution" height="200">  <img src="https://github.com/JoseOrtega51/JoseOrtega51/blob/main/BS_un_and_out.png" alt="BS Barrier Option" height="200">
